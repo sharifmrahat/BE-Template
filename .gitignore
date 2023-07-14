@@ -1,0 +1,17 @@
+node_modules
+dist
+
+# .env
+# .env.*
+
+# .eslintrc
+# .eslintignore
+
+# .prettierrc
+# .prettierignore
+
+# .husky
+
+.vscode
+
+.vercel
