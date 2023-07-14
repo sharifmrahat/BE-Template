@@ -2,7 +2,7 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 
 const spawn = require('cross-spawn')
-const fs = require('fs')
+const fs = require('fs-extra')
 const path = require('path')
 
 // Usage: npx create-my-template my-app
