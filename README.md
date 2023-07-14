@@ -21,7 +21,6 @@ Node | Express | Mongoose | Typescript | Template
 
 ## Dev Configs
 
-- App & Server Config (root)
 - ENV Config
 - ESLint
 - Prettier
@@ -32,6 +31,7 @@ Node | Express | Mongoose | Typescript | Template
 
 ## Default Files & Functions
 
+- App & Server Config (root)
 - JWT Helpers
 - Pagination Helpers
 - Generic API Response
