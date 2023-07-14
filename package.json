@@ -1,7 +1,7 @@
 {
   "name": "express-mongoose-ts-template",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Node | Express | Mongoose | Typescript | Template",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "sharifmrahat",
   "license": "ISC",
   "lint-staged": {
     "src/**/*.ts": "npm run lint-prettier"
@@ -52,6 +52,14 @@
     "typescript": "^5.1.3"
   },
   "bin": {
-    "express-mongoose-ts-template": "./bin/index.ts"
-  }
+    "express-mongoose-ts-template": "bin/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharifmrahat/Express-Mongoose-TS-Template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sharifmrahat/Express-Mongoose-TS-Template/issues"
+  },
+  "homepage": "https://github.com/sharifmrahat/Express-Mongoose-TS-Template#readme"
 }

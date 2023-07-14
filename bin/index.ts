@@ -1,10 +1,11 @@
 #! /usr/bin/env node
+/* eslint-disable @typescript-eslint/no-var-requires */
 
 // Usage: npx create-my-template my-app
 
-import spawn from 'cross-spawn'
-import fs from 'fs'
-import path from 'path'
+const spawn = require('cross-spawn')
+const fs = require('fs')
+const path = require('path')
 
 // The first argument will be the project name.
 const projectName = process.argv[2]
@@ -30,7 +31,6 @@ fs.renameSync(
   path.join(projectDir, '.gitignore')
 )
 
-// eslint-disable-next-line @typescript-eslint/no-var-requires
 const projectPackageJson = require(path.join(projectDir, 'package.json'))
 
 // Update the project's package.json with the new project name
