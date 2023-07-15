@@ -1,6 +1,6 @@
-# Create-Express-Mongoose-TS App | Starter Template
+# Create-Express-Mongoose-TS App
 
-Node | Express | Mongoose | Typescript | Template
+Node | Express | Mongoose | Typescript | Starter Template
 
 ## Installation
 
