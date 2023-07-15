@@ -1,6 +1,12 @@
-# Express-Mongoose-TS-Template
+# Create-Express-Mongoose-TS App | Starter Template
 
 Node | Express | Mongoose | Typescript | Template
+
+## Installation
+
+```bash
+    npx create-express-mongoose-ts <your-app-name>
+```
 
 ## Core Stack
 
