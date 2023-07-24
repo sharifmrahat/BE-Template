@@ -1,6 +1,6 @@
 {
   "name": "create-express-mongoose-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node | Express | Mongoose | Typescript | Template",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
     "@types/cookie-parser": "^1.4.3",
     "@types/jsonwebtoken": "^9.0.2",
     "bcrypt": "^5.1.0",
+    "chalk": "^5.3.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "cross-spawn": "^7.0.3",
