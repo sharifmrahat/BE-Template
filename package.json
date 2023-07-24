@@ -1,6 +1,6 @@
 {
   "name": "create-express-mongoose-ts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Node | Express | Mongoose | Typescript | Template",
   "main": "index.js",
   "scripts": {
